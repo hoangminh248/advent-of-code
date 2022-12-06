@@ -1,0 +1,1 @@
+It's not a perfect solution. Actually I can sort the array first, then use binary search to find common character 
