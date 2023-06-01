@@ -29,4 +29,6 @@ int solvePart2()
 
 int main()
 {
+    // Start here
+    return 0;
 }
